@@ -106,22 +106,7 @@ header {
     color: #111;
 }
 
-@media (max-width: 768px) {
-    header {
-        flex-direction: column;
-        gap: 15px;
-        padding: 20px;
-    }
 
-    .content {
-        left: 20px;
-        top: 55%;
-        max-width: 90%;
-    }
 
-    .content h1 {
-        font-size: 30px;
-    }
-}
 
 
